@@ -240,18 +240,6 @@
     }
   },
   {
-    "id": 1172,
-    "title": "Jacket1",
-    "price": 23242,
-    "description": "ASDFASDFASDFASDFASDFASD",
-    "category": "women's clothing",
-    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-    "rating": {
-      "rate": 4.9,
-      "count": 4324
-    }
-  },
-  {
     "id": 77213,
     "title": "dfgadfg",
     "price": 3243,
